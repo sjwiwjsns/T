@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garden Home Health Care, Inc.</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        header, footer {
+            background-color: #5a9e6f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 800px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #5a9e6f;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .contact-info {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Garden Home Health Care, Inc.</h1>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#payment">Payment Options</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="home">
+    <h2>Empowering Independence</h2>
+    <p>At Garden Home Health Care, Inc., we take pride in offering tailored solutions that empower our clients to lead independent and dignified lives. Our services are rooted in compassion, professionalism, and a commitment to enhancing the quality of life for those we serve.</p>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Since 2009, Garden Home Health Care, Inc. has been a trusted provider of home-based care services across the Twin Cities, seven metro counties, and southern Minnesota. As a family-owned agency, we approach every client with genuine care, respect, and attention to detail.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Community First Services and Supports (CFSS)</li>
+        <li>Personal Care Assistant (PCA)</li>
+        <li>PCA Choice</li>
+        <li>Homemaker Services</li>
+        <li>Adult Companion Services</li>
+        <li>Individualized Home Supports (IHS) with and without Training</li>
+        <li>Respite Care</li>
+        <li>Individual Community Living Supports (ICLS)</li>
+        <li>Night Supervision</li>
+    </ul>
+</section>
+
+<section id="payment">
+    <h2>Payment Options</h2>
+    <p>We accept payments through Minnesota’s Medical Assistance (Medicaid) home and community-based services (HCBS) programs, including:</p>
+    <ul>
+        <li>Alternative Care (AC)</li>
+        <li>Brain Injury (BI) Waiver</li>
+        <li>Community Alternative Care (CAC) Waiver</li>
+        <li>Community Access for Disability Inclusion (CADI) Waiver</li>
+        <li>Developmental Disabilities (DD) Waiver</li>
+        <li>Elderly Waiver (EW)</li>
+    </ul>
+    <p>We also work with Managed Care Organizations like Medica, Blue Cross Blue Shield, South Country Health Alliance, and United Healthcare.</p>
+</section>
+
+<section id="contact" class="contact-info">
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> 203 Mississippi St NE, Ste 200, Fridley, MN, 55432</p>
+    <p><strong>Phone:</strong> (651) 366-6550</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Garden Home Health Care, Inc. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
